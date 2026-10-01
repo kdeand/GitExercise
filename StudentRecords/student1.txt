@@ -1,3 +1,6 @@
 Name: Juan Dela Cruz
 Grade: 90
 
+New Student: Dean de la Cruz
+Grade: 
+
